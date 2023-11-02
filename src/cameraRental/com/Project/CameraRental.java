@@ -17,7 +17,7 @@ public class CameraRental {
 		camerarent.add(new Camera(5, "Sony   " , "DSLR14" ,20000.0f, "Available"));
 		camerarent.add(new Camera(6, "Canon  " , "5619  " ,  10000.0f, "Available"));
 		System.out.println("Develop By:Shubhangi Kailas Ravate");
-		System.out.println("");
+		System.out.println();
 		System.out.println("+=================================+");
 		System.out.println("||  WELCOME TO CAMERA RENTAL APP  ||");
 		System.out.println("+=================================+");
